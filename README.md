@@ -179,17 +179,6 @@ Each report contains:
 
 **Logs**: Check `logs/` directory for detailed error information
 
-## Contributing
-
-1. Fork the repository
-2. Create feature branch
-3. Make changes
-4. Add tests if applicable
-5. Submit pull request
-
-## License
-
-This project is licensed under the MIT License.
 
 ## Support
 
